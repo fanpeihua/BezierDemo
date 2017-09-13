@@ -10,7 +10,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context=".activity.SecondBezierActivity">
 
-    <com.imooc.beziertest.views.SecondBezierView
+    <fanpeihua.bezierdemo.views.SecondBezierView
         android:layout_width="match_parent"
         android:layout_height="match_parent"/>
 
